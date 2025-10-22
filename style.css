@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.content-1 {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-content-1 {
+    width: 500px;
+    height: 300px;
+    transition: .4s ease-in-out;
+}
+
+.content-2 {
+      display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menyediakan {
+     width: 600px;
+    height: 350px;
+}
+
+.content-3 {
+      display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-person {
+    width: 400px;
+    height: 250px;
+}
+
+.footer {
+      display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thx {
+     width: 600px;
+    height: 350px;
+}
